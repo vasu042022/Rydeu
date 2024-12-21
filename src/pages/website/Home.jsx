@@ -14,8 +14,8 @@ export default function Home() {
                     <HeroForm />
                 </div>
                 <div className='w-[320px] h-[134px] flex gap-7 mt-40 mx-20 items-center'>
-                    <img src="src\images\Group 471_page-0001.jpg" className=' scale-100 hover:scale-110 transition-all ease-in-out duration-200 rounded-2xl cursor-pointer' alt="" />
-                    <img src="src\images\Book Now & Pay Later_page-0001.jpg" className='rounded-2xl cursor-pointer scale-100 hover:scale-110 transition-all ease-in-out duration-200' alt="" />
+                    <img src="src\images\Screenshot.png" className=' scale-100 hover:scale-110 transition-all ease-in-out duration-200 rounded-2xl cursor-pointer' alt="" />
+                    <img src="src\images\Later_page-0001.jpg" className='rounded-2xl cursor-pointer scale-100 hover:scale-110 transition-all ease-in-out duration-200' alt="" />
                 </div>
             </div>
             {/* First section end */}

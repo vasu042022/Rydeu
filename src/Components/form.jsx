@@ -55,13 +55,7 @@ const HeroForm = () => {
                     placeholder="Pick up time"
                     className="w-full"
                 />
-
             </div>
-
-
-
-
-
 
             <div className='flex flex-col items-start gap-1 px-5 py-4'>
                 <div className='flex items-center gap-1 px-2'>
